@@ -33,8 +33,6 @@ This project predicts whether a loan application is likely to be approved using 
 
 * `CRED_ABILITY.ipynb` — Complete notebook
 * `loan_approval_data.csv` — Dataset
-* `loan_model.pkl` — Trained model
-* `scaler.pkl` — Saved scaler
 
 ## Future Improvements
 
